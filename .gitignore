@@ -1,0 +1,8 @@
+jira_backup/*
+*.sqlite
+*.lock
+*.xlsx
+__pycache__
+*.csv
+*.html
+*.xml
